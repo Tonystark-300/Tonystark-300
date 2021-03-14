@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyanisha
-- 👩‍🎓 I'm pursuing B.Tech from Computer Science and Engineering.
+- 👩‍🎓 I'm pursuing B.Tech(Computer Science and Engineering).
 - 👀 I’m interested in Software development and data science 
 - 🌱 I’m currently learning Data Structures 
 - 💞️ I’m looking to collaborate on open source project 
